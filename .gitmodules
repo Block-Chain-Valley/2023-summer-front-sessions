@@ -1,0 +1,6 @@
+[submodule "1-multicall"]
+	path = 1-multicall
+	url = https://github.com/swimmiee/1-multicall
+[submodule "2-recoil"]
+	path = 2-recoil
+	url = https://github.com/swimmiee/2-recoil
